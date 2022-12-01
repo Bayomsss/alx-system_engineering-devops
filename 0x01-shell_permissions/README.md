@@ -1,0 +1,1 @@
+0. this script switches the user from root to betty
