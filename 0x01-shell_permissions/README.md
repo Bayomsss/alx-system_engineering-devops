@@ -9,3 +9,4 @@
 8. no permission to owner, group but yes to everyone
 9. change permission to owner full acess, group read and execute and everyone execute write
 10. copying permission from another file
+11. add permission for subdirectories
