@@ -5,3 +5,4 @@
 4. this scripts creates an empty file called hello
 5. this scripts gives execute permission to the file owner
 6. gives the owner and the group execute access and others read only
+7. gives execute permission to everyone
