@@ -11,3 +11,4 @@
 10. copying permission from another file
 11. add permission for subdirectories
 12. create badass directory with permission
+13. last one, change file group ownership
