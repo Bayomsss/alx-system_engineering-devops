@@ -1,8 +1,8 @@
 #!/bin/bash
 git add .
 
-read -p "Enter commit message: " commit
+#read -p "Enter commit message: " commit
 
-git commit -m ''$commit''
+git commit -m 'still gotta stick with this'
 
 git push
