@@ -1,7 +1,7 @@
 #!/bin/bash
 git add .
 
-read -p "Enter commit message (include single quotes): " commit
+read -p "Enter commit message: " commit
 
 git commit -m "$commit"
 
