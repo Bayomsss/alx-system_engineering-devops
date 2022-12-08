@@ -4,4 +4,5 @@
 3. counts number of directories in the path
 4. list global variables with printenv
 5. list local variables with set
-6
+6. create local variables with NAME="VALUE"
+7. for global its same but we need to add the export function
