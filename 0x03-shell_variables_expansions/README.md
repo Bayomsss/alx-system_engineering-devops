@@ -6,3 +6,5 @@
 5. list local variables with set
 6. create local variables with NAME="VALUE"
 7. for global its same but we need to add the export function
+8. i just used arithemtic function with echo to print addition
+9. now to print division
